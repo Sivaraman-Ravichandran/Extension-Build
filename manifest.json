@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "disrupt",
+  "description": "My first extension build",
+  "version": "1.0",
+  "icons": {
+    "16": "/images/brain-16.png",
+    "48": "/images/brain-48.png",
+    "128": "/images/brain-128.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "/images/brain-128.png"
+  }
+}
